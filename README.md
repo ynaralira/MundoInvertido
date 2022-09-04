@@ -8,4 +8,4 @@ Link do projeto: <a href="https://ynaralira.github.io/MundoInvertido/">https://y
 <br><br>
 <img src="https://pbs.twimg.com/media/Fb2HHZHXwAI_xYw?format=jpg&name=4096x4096">
 <br><br>
-<img src="[[https://pbs.twimg.com/media/Fb2HHZDXwAEFCiC?format=jpg&name=4096x4096](https://pbs.twimg.com/media/Fb2HHZCXoAEtZ0r?format=jpg&name=4096x4096)](https://pbs.twimg.com/media/Fb2HHZCXoAEtZ0r?format=jpg&name=4096x4096)">
+<img src="https://pbs.twimg.com/media/Fb2HHZCXoAEtZ0r?format=jpg&name=4096x4096">
